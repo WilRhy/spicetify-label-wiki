@@ -1,5 +1,18 @@
 {
-  "description": "Paper Vinyl Records is an independent record label founded by WilRhy, focusing on making small artists' dreams come true.",
+  "name": "Paper Vinyl Records",
+  "description": "Paper Vinyl Records is an independent record label founded by WilRhy. Dedicated to supporting visionary artists, quality physical releases, and independent music creation.",
+  "founder": "WilRhy",
   "founded": "2024",
-  "founder": "WilRhy"
+  "links": [
+    { "title": "Official Website", "url": "https://papervinylmusic.com" },
+    { "title": "Instagram", "url": "https://instagram.com/papervinylrecords" }
+  ],
+  "artists": [
+    { "name": "WilRhy", "id": "1b29I5ZHtYsY0QF2NDxAai" },
+    { "name": "Frostability", "id": "6Pnqtln6eh4XN3dOTz82h0" },
+    { "name": "TwistedAnimations", "id": "0lvJH8oBsZd5XqF0ETI3TD" },
+    { "name": "BadMicGames", "id": "0gS5djNJMApgW18oBp2qJq" },
+    { "name": "SmiteBite", "id": "3MtWr4iE63OiCIuLnr7fqV" },
+    { "name": "judeUK", "id": "0utz4ve1gR4hJRwzwAlKsG" }
+  ]
 }
