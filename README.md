@@ -1,3 +1,14 @@
+# Aboutify, a Spicetify extension by WilRhy and published by Paper Vinyl Records
+Aboutify is an extension that lets you see more information about labels in the Labels Hub and in copyright and sound recording lines.
+
+This is a picture of the Labels Hub. 
+<img width="1017" height="615" alt="image" src="https://github.com/user-attachments/assets/e6cbf7f2-9fe2-41e6-bb71-e0d66865caad" />
+
+
+This is a picture of the example Label Wiki.
+<img width="721" height="519" alt="image" src="https://github.com/user-attachments/assets/3b1621ec-6382-49d9-a926-e636df355755" />
+
+
 # Aboutify Contribution Help
 If you wanna help contribute a Label Wiki page, then follow this (sort of) easy tutorial.
 
