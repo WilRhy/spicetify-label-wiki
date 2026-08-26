@@ -1,18 +1,15 @@
 {
-  "name": "Paper Vinyl Records",
-  "description": "Paper Vinyl Records is an independent record label founded by WilRhy. Dedicated to supporting small artists with independent music creation.",
-  "founder": "WilRhy",
-  "founded": "2024",
+  "name": "FROSTABILITY STUDIOS",
+  "logo_url": "https://raw.githubusercontent.com/PaperVinylRecords/papervinylrecords.github.io/refs/heads/main/images%20/pvrtransparent.png"
+  "description": "Frostability Studios is a studio by Ayden \"Frostability\" for creating video games, web-series, and more. The music or record label side of Frostability Studios includes music from those media or distributed ",
+  "founder": "Ayden \"Frostability\"",
+  "founded": "2025",
+  "creator": "WilRhy",
   "links": [
-    { "title": "Official Website", "url": "https://papervinylmusic.com" },
-    { "title": "Instagram", "url": "https://instagram.com/papervinylrecords" }
+    { "title": "Official Website", "url": "https://frostability.shop/" }
   ],
   "artists": [
-    { "name": "WilRhy", "id": "1b29I5ZHtYsY0QF2NDxAai" },
     { "name": "Frostability", "id": "6Pnqtln6eh4XN3dOTz82h0" },
-    { "name": "TwistedAnimations", "id": "0lvJH8oBsZd5XqF0ETI3TD" },
-    { "name": "BadMicGames", "id": "0gS5djNJMApgW18oBp2qJq" },
-    { "name": "SmiteBite", "id": "3MtWr4iE63OiCIuLnr7fqV" },
-    { "name": "judeUK", "id": "0utz4ve1gR4hJRwzwAlKsG" }
+    { "name": "WilRhy", "id": "1b29I5ZHtYsY0QF2NDxAai" }
   ]
 }
