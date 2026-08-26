@@ -10,8 +10,8 @@
       { "title": "Official Website", "url": "https://frostability.shop/" }
     ],
     "artists": [
-      { "name": "WilRhy", "id": "1b29I5ZHtYsY0QF2NDxAai", "img": "https://raw.githubusercontent.com/PaperVinylRecords/papervinylrecords.github.io/refs/heads/main/images%20/wilrhy.jpg" },
-      { "name": "Frostability", "id": "6Pnqtln6eh4XN3dOTz82h0", "img": "https://raw.githubusercontent.com/PaperVinylRecords/papervinylrecords.github.io/refs/heads/main/images%20/frostability.jpg" }
+      { "name": "Frostability", "id": "6Pnqtln6eh4XN3dOTz82h0", "img": "https://raw.githubusercontent.com/PaperVinylRecords/papervinylrecords.github.io/refs/heads/main/images%20/frostability.jpg"},
+      { "name": "WilRhy", "id": "1b29I5ZHtYsY0QF2NDxAai", "img": "https://raw.githubusercontent.com/PaperVinylRecords/papervinylrecords.github.io/refs/heads/main/images%20/wilrhy.jpg"}
     ]
   },
   {
