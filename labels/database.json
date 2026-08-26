@@ -17,15 +17,15 @@
   {
     "name": "Example Records",
     "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Columbia_Records_logo.svg/512px-Columbia_Records_logo.svg.png",
-    "description": "Github pull request label.",
-    "founder": "Jane Doe",
-    "founded": "Year",
-    "creator": "FartShit1923",
+    "description": "This is an example record label. This is used to show an example on how to create label wikis for the Labels Hub!",
+    "founder": "Exam Ple",
+    "founded": "2099",
+    "creator": "example",
     "links": [
       { "title": "Official Website", "url": "https://example.com/" }
     ],
     "artists": [
-      { "name": "Sample Artist", "id": "4dpARuHxo51G3z768sgnrY", "img": "https://i.scdn.co/image/ab6761610000e5eb5a8439f67690f0c6183e8788" }
+      { "name": "Example", "id": "0gxDevUVjvJUzbmzoIim30", "img": "https://i.scdn.co/image/ab6761610000e5eb5a8439f67690f0c6183e8788" }
     ]
   }
 ]
