@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Paper Vinyl Records", // this file is an example of 2 labels in the community label database.
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/512px-Spotify_icon.svg.png",
+    "description": "Paper Vinyl Records is an independent record label founded by WilRhy. Dedicated to supporting small artists with independent music creation.",
+    "founder": "WilRhy",
+    "founded": "2024",
+    "creator": "WilRhy",
+    "links": [
+      { "title": "Official Website", "url": "https://papervinylmusic.com/" }
+    ],
+    "artists": [
+      { "name": "WilRhy", "id": "1b29I5ZHtYsY0QF2NDxAai", "img": "https://i.scdn.co/image/ab6761610000e5eb5a8439f67690f0c6183e8788" },
+      { "name": "judeUK", "id": "0utz4ve1gR4hJRwzwAlKsG", "img": "https://i.scdn.co/image/ab6761610000e5eb5a8439f67690f0c6183e8788" }
+    ]
+  },
+  {
+    "name": "Example Records",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Columbia_Records_logo.svg/512px-Columbia_Records_logo.svg.png",
+    "description": "Github pull request label.",
+    "founder": "Jane Doe",
+    "founded": "Year",
+    "creator": "FartShit1923",
+    "links": [
+      { "title": "Official Website", "url": "https://example.com/" }
+    ],
+    "artists": [
+      { "name": "Sample Artist", "id": "4dpARuHxo51G3z768sgnrY", "img": "https://i.scdn.co/image/ab6761610000e5eb5a8439f67690f0c6183e8788" }
+    ]
+  }
+]
