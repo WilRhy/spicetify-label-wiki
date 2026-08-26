@@ -1,0 +1,19 @@
+{
+    "manifest_version": 1,
+    "name": "Aboutify",
+    "slug": "aboutify-label",
+    "description": "Adds wikis for record label made by the community of Spicetify.",
+    "authors": [
+        {
+            "name": "WilRhy",
+            "url": "https://github.com/WilRhy"
+        },
+        {
+            "name": "Aboutify Development",
+            "url": "https://github.com/WilRhy/spicetify-label-wiki"
+    ],
+    "version": "1.0.0",
+    "preview": "https://raw.githubusercontent.com/WilRhy/spicetify-label-wiki/main/preview.png",
+    "readme": "https://raw.githubusercontent.com/WilRhy/spicetify-label-wiki/main/README.md",
+    "extensions": ["dist/index.js"]
+}
