@@ -42,5 +42,61 @@
     "artists": [
       { "name": "Softwilly", "id": "0fAEWMlRd4yiJBT2usaqqc", "img": "https://cdn.phototourl.com/free/2026-09-03-91213ab9-1c31-4747-92df-db90eb787acc.png"}
     ]
-  }
+  },
+  {
+    "name": "Walla Records LLC",
+    "logo_url": "https://cdn.phototourl.com/free/2026-09-03-3cc119ee-b7d0-408d-b380-9dc119ef77da.png",
+    "description": "Walla Records was Started in 2022, a Group of Artists and Content Creators came together to start an Independent Music Label that helps bring creators and artists together to bring great Music and Fun! We have already had the pleasure of working with very talented artists such as “Yung Kage, $atori Zoom, 1nonly, Xanakin Skywok, ShadyMoon, and Lex Pain“. We have also been able to work with multiple large Youtubers / Content Creators such as ” Chills, Softwilly, Isaacwhy, Yumi, BigT, Larry, and Void“.",
+    "founder": "Nick \"Softwilly\", Isaacwhy, Vydia, & Gamersupps",
+    "founded": "2022",
+    "creator": "WilRhy",
+    "links": [
+      { "title": "Official Website", "url": "https://wallamusicgroup.com/" }
+    ],
+    "artists": [
+      { "name": "Softwilly", "id": "0fAEWMlRd4yiJBT2usaqqc", "img": "https://cdn.phototourl.com/free/2026-09-03-91213ab9-1c31-4747-92df-db90eb787acc.png"},
+      { "name": "YUNG KAGE", "id": "7j8MiVdcaaVpUvhkXWwYDT", "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jpfO8yWyWwvrTdHxec0MKAglrcKvU0YhtNjugYL_AT2zsnFKYqr6byQBxfxPM4DaO3hdMTTXvumR5dheO6Otk_45eowDyExw4uwfnv0&s=10"},
+      { "name": "Isaacwhy", "id": "6ghscS2VYz6krpZcxSOYEJ", "img": "https://yt3.googleusercontent.com/ytc/AIdro_mlHWHUv5MHv_24K8dDBuAO-IyP79Hs-3kiSKg7wePiMOc=s900-c-k-c0x00ffffff-no-rj"}
+    ]
+  },
+  {
+    "name": "broke Records",
+    "logo_url": "https://broke.nyc/icon.png",
+    "description": "We are an independent record label and team committed to servicing artists with world-class services, digital strategy, and high performance. Redefining what it means to be a record label, and sign to one.",
+    "founder": "Andre Benz & Brandon De Oliveira",
+    "founded": "2023",
+    "creator": "WilRhy",
+    "links": [
+      { "title": "Official Website", "url": "https://broke.nyc/" }
+    ],
+    "artists": [
+      { "name": "ZHU", "id": "28j8lBWDdDSHSSt5oPlsX2", "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOdFKy2rzXHPGE1ceXRsNSKcxyPOfhwXlxU2OKBIdepF9uSPxB9PjnMqRbUqpOq9kCI32vjBdvMdDcZEQjcU4A3V-S_s-b3KUJJZdzPQ&s=10"},
+      { "name": "Sevdaliza", "id": "5MraexJKZDrQYzS98kNwie", "img": "https://i.scdn.co/image/ab67616d00001e02b94273b4039e1c1cf45fb1e4"},
+      { "name": "bbno$", "id": "41X1TR6hrK8Q2ZCpp2EqCz", "img": "https://static.wikia.nocookie.net/smosh/images/4/47/Bbno%24.jpg/revision/latest?cb=20241114161847"},
+      { "name": "BLP KOSHER", "id": "6w60ExNMjs0gd4ioh7GMRI", "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2Tvg5SLRxrnkWrbMSC8bUoGGmu83VJZmMOFDVl-d4vmK9Xjzeet6Y9E&s=10"},
+    ]
+  },
+    {
+    "name": "Bad Boy Records",
+    "logo_url": "https://broke.nyc/icon.png",
+    "description": "Bad Boy Entertainment is an award-winning, globally celebrated music, media, and entertainment company founded by Sean \"Diddy\" Combs. The company includes Bad Boy Records, a pioneer in hip-hop and one of the music industry's premier record labels. For more than 30 years, Bad Boy Records has launched the careers of hip-hop heavyweights such as Notorious B.I.G., Puff Daddy, Craig Mack, Ma$e, and Faith Evans. Other Bad Boy artists include 112, Mario Winans, Black Rob, The Lox, New Edition, French Montana, Machine Gun Kelly, Janelle Monae, King Combs, and dozens of others. Over the past three-plus decades, Bad Boy has sold more than 400 million albums, and their songs have over 3 billion streams. Today, Bad Boy operates as an independent company and the Bad Boy catalog continues to be distributed by Warner Music Group and Interscope.",
+    "founder": "Diddy",
+    "founded": "1993",
+    "creator": "WilRhy",
+    "links": [
+      { "title": "LinkedIn", "url": "https://www.linkedin.com/company/bad-boy-entertainment/" }
+    ],
+    "artists": [
+      { "name": "Diddy (Puffy)", "id": "59wfkuBoNyhDMQGCljbUbA", "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4M7XbEQBVPYidgFCEevPKJH_i_uoLvMX8KrIwByCDEJMkTV3NZj4d5f7u&s=10"},
+      { "name": "Craig Mack", "id": "4akj4uteQQrrGxhX9Rjuyf", "img": "https://i.guim.co.uk/img/media/bb77558897aa5427f0ef12e98d0be07baed98d2c/0_230_3000_1800/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=781a3acd94332cf5ec2d6de12bd72658"},
+      { "name": "The Notorious B.I.G. (Biggie Smalls)", "id": "5me0Irg2ANcsgc93uaYrpb", "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt-cYIqKqB0gNBgBAIMFYAkWepOjKPsT9wrp8OBAXmOd_JV1iz6EcwyTB0aVL52LVvPnYnMI8hBxa_onLMVAjtWRbJf0fTqWffI9BWHko&s=10"},
+      { "name": "Faith Evans", "id": "5NDMothbpdpq2xHqSjrrWn", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Faith_Evans_1998.jpg/250px-Faith_Evans_1998.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"},
+      { "name": "Ma$e", "id": "1wiBLzTI7z9RUwEpNPdFT6", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Mase-JuicyFest-2024-Auckland-billboard-1548_%28cropped%29_%28cropped%29.jpg/250px-Mase-JuicyFest-2024-Auckland-billboard-1548_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"},
+      { "name": "112", "id": "7urq0VfqxEYEEiZUkebXT4", "img": ""},
+      { "name": "Total", "id": "1urjDGTd4iBze91Z1W1gu7", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Total_at_Legends_of_Bad_Boy_2014.jpg/330px-Total_at_Legends_of_Bad_Boy_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"},
+      { "name": "The LOX", "id": "0A7g2YbCA9FlyZvAG6VmKP", "img": ""},
+      { "name": "Shyne", "id": "64ovxBmjJ9ZDqkzEXVWpVc", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Shyne_profile_%28cropped%29.jpg/250px-Shyne_profile_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"},
+      { "name": "Carl Thomas", "id": "6I6t21SFbxZ7RbQgD5dN7U", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Carl_Thomas_at_Legends_of_Bad_Boy_concert.jpg/250px-Carl_Thomas_at_Legends_of_Bad_Boy_concert.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"},
+    ]
+  },
 ]
