@@ -27,5 +27,20 @@
     "artists": [
       { "name": "Example", "id": "0gxDevUVjvJUzbmzoIim30", "img": "https://i.scdn.co/image/ab6761610000e5eb5a8439f67690f0c6183e8788" }
     ]
-  }
+  },
+  {
+    "name": "ETRNL RECORDS",
+    "logo_url": "https://media.licdn.com/dms/image/v2/D560BAQF6Xq5fZDjMsw/company-logo_200_200/B56Z2kCXUHKIAI-/0/1776573579090?e=1790208000&v=beta&t=Rv2TMEyW6Fo9LDL3V3FjCTTjDG_mTVluXjcm4DQ-XKI",
+    "description": "ETRNL Records is a next-generation record label built at the intersection of music, content, and creator-led distribution.",
+    "founder": "Nick \"Softwilly\" & Zeek Elliott",
+    "founded": "2025",
+    "creator": "WilRhy",
+    "links": [
+      { "title": "Instagram", "url": "https://instagram.com/etrnlrcrds" },
+      { "title": "LinkedIn", "url": "https://www.linkedin.com/company/etrnl-rcrds" }
+    ],
+    "artists": [
+      { "name": "Softwilly", "id": "0fAEWMlRd4yiJBT2usaqqc", "img": "https://cdn.phototourl.com/free/2026-09-03-91213ab9-1c31-4747-92df-db90eb787acc.png"}
+    ]
+  },
 ]
